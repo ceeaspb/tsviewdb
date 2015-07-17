@@ -4,7 +4,7 @@
 
 package tsviewdb
 
-import proto "code.google.com/p/goprotobuf/proto"
+import proto "github.com/golang/protobuf/tree/master/proto"
 import json "encoding/json"
 import math "math"
 
