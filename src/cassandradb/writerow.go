@@ -17,8 +17,8 @@ limitations under the License.
 package cassandradb
 
 import (
-	"code.google.com/p/go-uuid/uuid"
-	"code.google.com/p/goprotobuf/proto"
+	"github.com/pborman/uuid"
+        "github.com/golang/protobuf/tree/master/proto"
 	"errors"
 	"github.com/adilhn/gossie/src/gossie"
 	"github.com/golang/glog"

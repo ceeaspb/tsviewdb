@@ -17,7 +17,7 @@ limitations under the License.
 package cassandradb
 
 import (
-	"code.google.com/p/goprotobuf/proto"
+        "github.com/golang/protobuf/tree/master/proto"
 	"errors"
 	"github.com/golang/glog"
 	"github.com/google/tsviewdb/src/common"

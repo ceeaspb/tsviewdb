@@ -17,7 +17,7 @@ limitations under the License.
 package dbcommon
 
 import (
-	"code.google.com/p/goprotobuf/proto"
+       "github.com/golang/protobuf/tree/master/proto"
 	"crypto/md5"
 	"encoding/hex"
 	"fmt"
