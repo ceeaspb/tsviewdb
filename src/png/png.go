@@ -18,7 +18,7 @@ package png
 
 import (
 	"bytes"
-	"github.com/gonum/plot/plot"
+	"github.com/gonum/plot"
 	"github.com/gonum/plot/plotter"
 	"github.com/gonum/plot/vg"
 	"github.com/gonum/plot/vg/vgimg"
