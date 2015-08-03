@@ -37,7 +37,7 @@ import (
 	"bytes"
 	"flag"
 	"fmt"
-	"github.com/wadey/groupcache-expiration"
+	"github.com/adilhn/groupcache-expiration"
 	"github.com/golang/glog"
 	"github.com/ceeaspb/tsviewdb/src/db"
 	"github.com/ceeaspb/tsviewdb/src/gziphandler"
