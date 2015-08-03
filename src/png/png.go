@@ -18,10 +18,10 @@ package png
 
 import (
 	"bytes"
-	"code.google.com/p/plotinum/plot"
-	"code.google.com/p/plotinum/plotter"
-	"code.google.com/p/plotinum/vg"
-	"code.google.com/p/plotinum/vg/vgimg"
+	"github.com/gonum/plot/plot"
+	"github.com/gonum/plot/plotter"
+	"github.com/gonum/plot/vg"
+	"github.com/gonum/plot/vg/vgimg"
 	"fmt"
 	"github.com/golang/glog"
 	"github.com/google/tsviewdb/src/common"
