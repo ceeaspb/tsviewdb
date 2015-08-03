@@ -18,7 +18,7 @@ package db
 
 import (
 	"errors"
-	"github.com/google/tsviewdb/src/common"
+	"github.com/ceeaspb/tsviewdb/src/common"
 	"sort"
 )
 

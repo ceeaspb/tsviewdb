@@ -17,7 +17,7 @@ limitations under the License.
 package cassandradb
 
 import (
-	"github.com/google/tsviewdb/src/db/dbcommon"
+	"github.com/ceeaspb/tsviewdb/src/db/dbcommon"
 )
 
 func (c *CassandraDB) DeleteRow(rowKey string) (err error) {

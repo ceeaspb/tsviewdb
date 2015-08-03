@@ -21,7 +21,7 @@ import (
 	"flag"
 	"github.com/adilhn/gossie/src/gossie"
 	"github.com/golang/glog"
-	"github.com/google/tsviewdb/src/db"
+	"github.com/ceeaspb/tsviewdb/src/db"
 )
 
 var keyspace = flag.String("cassandradb.keyspace", "perf", "Cassandra DB keyspace to use")

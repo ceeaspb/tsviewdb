@@ -23,9 +23,9 @@ import (
 	"net/http"
 	"os"
 	"runtime"
-	"github.com/google/tsviewdb/src/cassandradb"
-	"github.com/google/tsviewdb/src/db"
-	"github.com/google/tsviewdb/src/handlers"
+	"github.com/ceeaspb/tsviewdb/src/cassandradb"
+	"github.com/ceeaspb/tsviewdb/src/db"
+	"github.com/ceeaspb/tsviewdb/src/handlers"
 )
 
 var servicePort = flag.Int("port", 8080, "API service port.")

@@ -22,8 +22,8 @@ import (
 	"encoding/hex"
 	"fmt"
 	"github.com/golang/glog"
-	"github.com/google/tsviewdb/src/db"
-	pb "github.com/google/tsviewdb/src/proto"
+	"github.com/ceeaspb/tsviewdb/src/db"
+	pb "github.com/ceeaspb/tsviewdb/src/proto"
 	"io"
 )
 

@@ -17,8 +17,8 @@ limitations under the License.
 package db
 
 import (
-	"github.com/google/tsviewdb/src/common"
-	"github.com/google/tsviewdb/src/regress"
+	"github.com/ceeaspb/tsviewdb/src/common"
+	"github.com/ceeaspb/tsviewdb/src/regress"
 	"sort"
 	"strconv"
 	"strings"

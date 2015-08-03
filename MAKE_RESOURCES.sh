@@ -12,7 +12,7 @@ if [ -z $GOPATH ]; then
   exit
 fi
 
-TSVIEWDBROOT=${TSVIEWDBROOT:=$GOPATH/src/github.com/google/tsviewdb}
+TSVIEWDBROOT=${TSVIEWDBROOT:=$GOPATH/src/github.com/ceeaspb/tsviewdb}
 
 mkdir -p $TSVIEWDBROOT/resources
 TOOLSDIR=$TSVIEWDBROOT/third_party_tools

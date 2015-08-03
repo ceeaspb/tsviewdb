@@ -18,7 +18,7 @@ package main
 
 import (
 	"github.com/golang/glog"
-	"github.com/google/tsviewdb/src/common"
+	"github.com/ceeaspb/tsviewdb/src/common"
 	"io/ioutil"
 	"net/http"
 	"net/http/httptest"

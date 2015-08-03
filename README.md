@@ -126,7 +126,7 @@ bin/cassandra -f
 Either download an executable or build from source.
 
 Download executable:
-- Download: [releases](https://github.com/google/tsviewdb/releases)
+- Download: [releases](https://github.com/ceeaspb/tsviewdb/releases)
 - Unpack:
 
 ```sh
@@ -142,14 +142,14 @@ Build From Source:
 ```sh
   mkdir $HOME/tsviewdb-$VERSION
   export GOPATH=$HOME/tsviewdb-$VERSION
-  go get github.com/google/tsviewdb/server
+  go get github.com/ceeaspb/tsviewdb/server
 ```
 
 <a name="make_resources"/>
 - Make resources:
 
 ```sh
-$GOPATH/src/github.com/google/tsviewdb/MAKE_RESOURCES.sh
+$GOPATH/src/github.com/ceeaspb/tsviewdb/MAKE_RESOURCES.sh
 ```
 
 - Start the server:
@@ -202,8 +202,8 @@ Result should be something like:
 <a name="Additional_Documentation"/a>
 Additional Documentation
 ------------------------
-- [FIX THIS LINK to API doc](http://github.com/google/tsviewdb)
-- [FIX THIS LINK to API quick start](http://github.com/google/tsviewdb)
+- [FIX THIS LINK to API doc](http://github.com/ceeaspb/tsviewdb)
+- [FIX THIS LINK to API quick start](http://github.com/ceeaspb/tsviewdb)
 
 <a name="License"/a>
 License

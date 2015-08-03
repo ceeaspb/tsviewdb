@@ -18,7 +18,7 @@ package handlers
 
 import (
 	"bytes"
-	"github.com/google/tsviewdb/src/gziphandler"
+	"github.com/ceeaspb/tsviewdb/src/gziphandler"
 	"io/ioutil"
 	"mime"
 	"os"

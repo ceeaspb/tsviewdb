@@ -18,12 +18,12 @@ package handlers
 
 import (
 	"flag"
-	"github.com/google/tsviewdb/src/cachinghandler"
-	"github.com/google/tsviewdb/src/common"
-	"github.com/google/tsviewdb/src/db"
-	"github.com/google/tsviewdb/src/gziphandler"
-	"github.com/google/tsviewdb/src/handlers/templateloader"
-	"github.com/google/tsviewdb/src/rangecontent"
+	"github.com/ceeaspb/tsviewdb/src/cachinghandler"
+	"github.com/ceeaspb/tsviewdb/src/common"
+	"github.com/ceeaspb/tsviewdb/src/db"
+	"github.com/ceeaspb/tsviewdb/src/gziphandler"
+	"github.com/ceeaspb/tsviewdb/src/handlers/templateloader"
+	"github.com/ceeaspb/tsviewdb/src/rangecontent"
 	"net/http"
 	"os"
 	"path/filepath"
@@ -31,7 +31,7 @@ import (
 
 const (
 	// Likely path from GOPATH to TSVIEWDBROOT.
-	rootPath = "src/github.com/google/tsviewdb"
+	rootPath = "src/github.com/ceeaspb/tsviewdb"
 )
 
 func getTSVIEWDBROOT() (tsviewdbRoot string) {

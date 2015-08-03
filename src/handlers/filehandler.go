@@ -19,7 +19,7 @@ package handlers
 import (
 	"fmt"
 	"github.com/golang/glog"
-	"github.com/google/tsviewdb/src/handlers/handlerutils"
+	"github.com/ceeaspb/tsviewdb/src/handlers/handlerutils"
 	"net/http"
 	"strconv"
 	"time"

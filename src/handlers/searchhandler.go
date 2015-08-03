@@ -20,8 +20,8 @@ import (
 	"bytes"
 	"fmt"
 	"github.com/golang/glog"
-	"github.com/google/tsviewdb/src/handlers/handlerutils"
-	"github.com/google/tsviewdb/src/handlers/templateloader"
+	"github.com/ceeaspb/tsviewdb/src/handlers/handlerutils"
+	"github.com/ceeaspb/tsviewdb/src/handlers/templateloader"
 	"net/http"
 	"time"
 )

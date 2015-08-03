@@ -21,10 +21,10 @@ import (
 	"fmt"
 	"github.com/adilhn/gossie/src/gossie"
 	"github.com/golang/glog"
-	"github.com/google/tsviewdb/src/common"
-	"github.com/google/tsviewdb/src/db"
-	"github.com/google/tsviewdb/src/db/dbcommon"
-	pb "github.com/google/tsviewdb/src/proto"
+	"github.com/ceeaspb/tsviewdb/src/common"
+	"github.com/ceeaspb/tsviewdb/src/db"
+	"github.com/ceeaspb/tsviewdb/src/db/dbcommon"
+	pb "github.com/ceeaspb/tsviewdb/src/proto"
 	"strings"
 )
 

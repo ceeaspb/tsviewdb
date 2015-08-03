@@ -19,9 +19,9 @@ package rangecontent
 import (
 	"errors"
 	"github.com/golang/glog"
-	"github.com/google/tsviewdb/src/common"
-	"github.com/google/tsviewdb/src/db"
-	"github.com/google/tsviewdb/src/db/requests"
+	"github.com/ceeaspb/tsviewdb/src/common"
+	"github.com/ceeaspb/tsviewdb/src/db"
+	"github.com/ceeaspb/tsviewdb/src/db/requests"
 	"net/url"
 	"time"
 )
