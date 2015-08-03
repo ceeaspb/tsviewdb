@@ -19,7 +19,7 @@ package cassandradb
 
 import (
 	"flag"
-	"github.com/adilhn/gossie/src/gossie"
+	"github.com/wadey/gossie/src/gossie"
 	"github.com/golang/glog"
 	"github.com/ceeaspb/tsviewdb/src/db"
 )

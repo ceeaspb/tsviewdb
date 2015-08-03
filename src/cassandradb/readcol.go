@@ -17,7 +17,7 @@ limitations under the License.
 package cassandradb
 
 import (
-	"github.com/adilhn/gossie/src/gossie"
+	"github.com/wadey/gossie/src/gossie"
 	"github.com/golang/glog"
 )
 
